@@ -1,8 +1,5 @@
 package com.crm.comcast.contact;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class ContactTest 
@@ -11,6 +8,8 @@ public class ContactTest
 	public void createContact() throws Throwable
 	{
 		System.out.println("Executing createContact test");
+		
+		System.out.println("Executing createContact test... To check Poll SCM");
 		
 	}
 	
