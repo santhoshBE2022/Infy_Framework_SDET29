@@ -9,7 +9,7 @@ public class ContactTest
 	{
 		System.out.println("Executing createContact test");
 		
-		System.out.println("Executing createContact test... To verify Poll SCM");
+		System.out.println("Executing createContact test... Poll SCM");
 		
 	}
 	
